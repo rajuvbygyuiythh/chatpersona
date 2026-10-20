@@ -1,0 +1,3 @@
+/dist/
+*.zip
+!release/ChitChat-App-clean-*.zip

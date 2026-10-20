@@ -1,0 +1,21 @@
+# API Chat snap share deck. One line = one share message.
+# %username% is replaced by the app with a dashboard handle. Never write @ usernames here.
+# Keep app names rare: only a few lines below name it at all.
+ok fine %username%
+my handle is %username%, dont lose it
+here: %username%
+just %username% .. dont make it weird
+u got lucky, %username%
+find me: %username%
+add %username% and say hi
+thats it, %username% .. thats the one
+okok %username%
+%username% .. now dont spam me
+save it: %username%
+fine, %username%. ur welcome
+that took long enough .. %username%
+ok %username%, go
+my snap is %username%
+snap: %username% (dont lose it)
+sc %username%, i barely check this app
+add my snap %username% before i change my mind
